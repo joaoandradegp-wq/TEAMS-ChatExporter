@@ -391,7 +391,7 @@ class QueueWriter:
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Exportar chat do Teams")
+        self.title("TeamsChatExporter 1.0")
         self.geometry("720x560")
         self.minsize(640, 480)
 
