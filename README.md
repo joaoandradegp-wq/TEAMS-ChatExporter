@@ -206,6 +206,14 @@ Utilize o aplicativo somente em conversas às quais você tenha autorização de
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/e09956a9-e86d-4ccd-ac14-d343c54f2683" />
+</p>
+
+---
+
 <p align="center">
   Desenvolvido para facilitar a preservação e a consulta de conversas do Microsoft Teams. 💬
 </p>
